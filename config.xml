@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.Lexa555.escape"
+    versionCode = "10"
+    version     = "1.0.0" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>Escape! Puzzle game</name>
+
+  <description>
+     Game
+  </description>
+
+  <author href="https://build.phonegap.com" email="support@phonegap.com">
+      Lexa555
+  </author>
+<icon src="Icon.png" />
+
+</widget>
